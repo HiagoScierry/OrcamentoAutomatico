@@ -1,0 +1,5 @@
+br\com\orcamentoautomatico\models\log.class
+br\com\orcamentoautomatico\modules\log\adapter\JSONLog.class
+br\com\orcamentoautomatico\modules\log\interfaces\ILogAdapter.class
+br\com\orcamentoautomatico\main.class
+br\com\orcamentoautomatico\modules\log\adapter\CSVLog.class

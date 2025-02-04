@@ -1,0 +1,5 @@
+D:\Programacao\Projetos_Trabalho_Final\OrcamentoAutomatico\src\main\java\br\com\orcamentoautomatico\main.java
+D:\Programacao\Projetos_Trabalho_Final\OrcamentoAutomatico\src\main\java\br\com\orcamentoautomatico\modules\log\interfaces\ILogAdapter.java
+D:\Programacao\Projetos_Trabalho_Final\OrcamentoAutomatico\src\main\java\br\com\orcamentoautomatico\modules\log\adapter\CSVLog.java
+D:\Programacao\Projetos_Trabalho_Final\OrcamentoAutomatico\src\main\java\br\com\orcamentoautomatico\modules\log\adapter\JSONLog.java
+D:\Programacao\Projetos_Trabalho_Final\OrcamentoAutomatico\src\main\java\br\com\orcamentoautomatico\models\log.java
